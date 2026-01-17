@@ -1,0 +1,7 @@
+{
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "School Levelup system",
+  "description": "A gamified leveling system which helps to make study a habit with real life ranking competiton"
+}
